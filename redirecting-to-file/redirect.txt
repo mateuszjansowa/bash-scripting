@@ -1,0 +1,1 @@
+Hello bash scripting! Redirect to file

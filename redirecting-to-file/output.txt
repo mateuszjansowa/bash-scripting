@@ -1,0 +1,2 @@
+redirected from terminal to file
+
